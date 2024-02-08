@@ -1,0 +1,38 @@
+body {
+    background-color: #333; /* Dark gray background color */
+    color: white; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+  }
+  
+  form {
+    width: 50%; /* Set form width */
+    margin: 0 auto; /* Center the form horizontally */
+    padding: 20px; /* Add padding */
+  }
+  
+  label {
+    display: block; /* Display labels as block elements */
+    margin-bottom: 10px; /* Add bottom margin to labels */
+  }
+  
+  textarea {
+    width: 100%; /* Set textarea width to 100% */
+    padding: 10px; /* Add padding */
+    border-radius: 5px; /* Add border radius */
+    border: 1px solid #ccc; /* Add border */
+    background-color: #fff; /* White background color */
+  }
+  
+  button {
+    padding: 10px 20px; /* Add padding */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border radius */
+    background-color: #007bff; /* Blue background color */
+    color: #fff; /* Text color */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+  

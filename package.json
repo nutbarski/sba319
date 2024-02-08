@@ -2,6 +2,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongodb": "^6.3.0",
+    "mongoose": "^8.1.1",
     "nodemon": "^3.0.3"
   },
   "name": "sba-319",
@@ -14,6 +15,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
   "description": ""
 }
